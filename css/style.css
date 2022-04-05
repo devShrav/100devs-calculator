@@ -29,6 +29,13 @@ body {
   background-color: white;
 }
 
+.textDisplay {
+  border: 1px solid pink;
+  height: 100%;
+  text-align: right;
+  font-size: 3rem;
+}
+
 .calculatorButtons {
   display: flex;
   flex-wrap: wrap;
